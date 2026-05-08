@@ -1,6 +1,29 @@
-<h1 align="center">Hi 👋 there, I'm Wolfgang Suarez</h1>
+<h1 align="center">Hola! 👋 , Soy Wolfgang Suarez</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=0018FF&center=true&vCenter=true&width=520&lines=Desarrollador+de+Software+%F0%9F%92%BB;Estudiante+de+Programaci%C3%B3n+%F0%9F%93%98;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>"Pienso y Luego Existo; El exito es para los despiertos."</em>
+</p>
+
+<p align="center">
+  <a href="mailto:suarezwolfgang0509@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/WolfranS-Tears"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy un estudiante de **desarrollado de software** de Bucaramanga, Santander (Colombia), enfocado en siempre aprender cosas nuevas; con mi meta de crear soluciones practicas.
+- 👨‍🏫 Me gusta enseñar programación desde la lógica hasta la implementación real.
+- 🧩 Disfruto resolver problemas complejos con soluciones simples y mantenibles.
+- 🌍 Interesado en tecnología, educación, idiomas y crecimiento continuo.
+- 🗣️ Idiomas: **Español (nativo)** · **Inglés (B1.3)**.
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfrans-tears&label=Profile%20views&color=0e75b6&style=flat" alt="wolfrans-tears" /> </p>
-
-<h3 align="left">Lenguaje y Herramientas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
